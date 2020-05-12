@@ -6,9 +6,9 @@
 **Jakaś lista**
 1. Dżem
 2. Jajka
- * Świeże
- * Zerówki
- * Jak okulary 
+  * Świeże
+  * Zerówki
+  * Jak okulary 
 
 1. Item 1
 2. Item 2
