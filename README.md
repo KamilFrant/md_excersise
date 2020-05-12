@@ -9,4 +9,4 @@
 3. Zanieść jutro papiery
 
 
-![Alt Text](https://ps.w.org/advanced-random-posts-widget/assets/icon-256x256.png?rev=2046099)
+![Alt Text](https://i.pinimg.com/236x/a3/a9/96/a3a99619d0b71a18620a382eccab5b3b.jpg)
