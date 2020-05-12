@@ -8,4 +8,4 @@
 * Jajka
  * Świeże
  * Zerówki
-  * Jak okulary 
+ * Jak okulary 
